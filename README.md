@@ -1,4 +1,9 @@
-## Hi there 👋
+## public projects roadmap
+
+- restaurant order management system (backend microservices + kiosk desktop app + management webapp)
+- digital badge signing and verification platform
+- api test automation platform (like postman but nice test visualization and smaller feature set)
+- money manager pwa
 
 <!--
 **mrtnstl/mrtnstl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
