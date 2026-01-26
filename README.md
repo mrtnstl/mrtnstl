@@ -2,13 +2,34 @@
 
 ### restaurant management system (backend microservices + restaurant and order management webapp) + kiosk desktop app
 
-mi ez? egy README.md fájlban leltem githubon és egy interaktívnak tűnő diagram
-
-
-### Architecture
+#### architecture[the diagram is just for testing]
 
 ```mermaid
 graph TB
+    
+    APIGateway[API Gateway]
+    RestaurantSercive[Restaurant Service]
+    RestaurantDB[DB]
+    PaymentService[Payment Service]
+    PaymentDB[DB]
+    MessageQueue[Message Queue]
+
+    APIGateway --> RestaurantService
+    APIGateway --> PaymentService
+
+    RestaurantService --> RestaurantDB
+    PaymentService --> PaymentDB
+
+    RestaurantService --> MessageQueue
+    PaymentService --> MessageQueue
+
+   
+```
+
+<!-- 
+
+ 
+
     Mayor[The Mayor<br/>AI Coordinator]
     Town[Town Workspace<br/>~/gt/]
 
@@ -31,10 +52,9 @@ graph TB
     style Town fill:#f0f0f0
     style Rig1 fill:#fff4e1
     style Rig2 fill:#fff4e1
-```
-
-<!-- 
-### money manager pwa
+    -->
+    
+<!-- ### money manager pwa
 ## digital badge signing and verification platform
 ## api test automation platform (like postman but nice test visualization and smaller feature set)
 
