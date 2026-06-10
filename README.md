@@ -1,6 +1,6 @@
-<h3 align="center">Hi! I'm a full-stack developed based in Hungary!</h3>
+<p align="left">Hi! I'm Marci, a full-stack developer based in Hungary!</p>
 
-<h2 align="left">languages i love to work with:</h2>
+<p align="left">languages i love to work with:</p>
 <p align="left"> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
