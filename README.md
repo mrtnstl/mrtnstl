@@ -1,54 +1,15 @@
-<p align="left">Hi! I'm Marci, a full-stack developer based in Hungary!</p>
+# 👋 Hey there, I'm Márton!
 
-<p align="left">languages i love to work with:</p>
-<p align="left"> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" alt="bash" width="40" height="40"/> 
-  </a>
-</p>
+a Full Stack developer based in Hungary!
 
-<p>
-  I'm always open to interesting collaborations! Feel free to reach out if you'd like to work on a project together.
-</p>
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtnstl&show_icons=true&locale=en&layout=compact" alt="mrtnstl" /></p>
--->
-<!--
-```
-...................................:............:.:.....
-...........:.....:x&X+x+++;+;xxxxXxx&x...:....:.........
-.....:....$$::+&;X....::$x;:.&...:...&;;&&;:&..........:
-..:.......$:&&::&.&&......$:::&&:.....$::x+;&........:.:
-:...........&:;:X.:......&:::x.......&;:;:X..:..........
-.:..........&::;;;+$xXx;X&&&&&&;x+;x;;:;;:;&.:.:...:....
-:...........&:;;.::;;:::&+;&:$:&:;;:;:;:;;:&....:......:
-........:...&::;:;::;;:;:&.&.;::::;:;:::;::x........:.:.
-..:.........X:::;::;::::::::::::.::;;;:;:;:x......::....
-..........:.&::::::::::::;;::::;;;:::;.:;::;............
-.:..:.....X&&:;:;:;;;;;:::;+;;:;:;:;::;::::+X:X.........
-.........&;X&:::;:;:;:;:;::::.;:;::;:;::;::xx&$.........
-..........:.X:;;:;::.::::::;:;::;:;;;:::;::X............
-..::........&::;:;;;+:;:+;;;;:;;;;::;;;;;;:x:...........
-.....:......$:;:;::;::++:;::;::;:+::;:;:::;$:...:.......
-::..........X:::;::;::.::;:.:::::.;::;:;:::$....:.......
-............$::::::;;;:::;:;::::;:;:;;::::x;............
-..:..........$;:::::::;:::;::;::;:::;;;::$:.:...........
-...:...........&$:;;::::;:;:;;:;::::;;;&&.........:.....
-....:........&&::&;;&&+;;++;;;++;&&X:.x+;&&......::.....
-.........:..:.......................:...................
-```
--->
-<!-- 
-
-🟥 🟧 🟨 🟩 🟦 🟪 🟫 ⬛ ⬜ 
-
--->
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
