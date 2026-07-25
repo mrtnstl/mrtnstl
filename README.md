@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Márton!
+💾 Hey there, I'm Márton
 
-a Full Stack developer based in Hungary!
+a Full Stack developer from Hungary!
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
