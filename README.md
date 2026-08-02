@@ -1,6 +1,6 @@
 ### 💾 Hey there, I'm Márton
 
-a Full Stack developer from Hungary!
+a Full Stack Developer from Hungary!
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,13 +19,13 @@ a Full Stack developer from Hungary!
 <h3>Always open to interesting opportunities where</h3>
 <h4>the workplace is isolated, poorly lit, and one catastrophic system failure away from total chaos.
 </h4>
-<img src="./nostromo_pixelated.png" alt="a place to be" width="300">
+<img src="./nostromo_pixelated.png" alt="a place to be" width="300" />
 <br />
 <small>(illustration of said workplace)</small>
 <br />
 <br />
 <h4>And how the job would have me sometimes:</h4>
-<img src="./fun_times.gif" alt="good vibes" width="460">
+<img src="./fun_times.gif" alt="good vibes" width="460" autoplay playsinline />
 <br />
 <small>(motion tracker and flamethrower in hand, scanning for nasty bugs)</small>
 </div>
