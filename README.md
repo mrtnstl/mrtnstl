@@ -27,5 +27,4 @@ a Full Stack Developer from Hungary!
 <h4>And how the job would have me sometimes:</h4>
 <img src="./fun_times.gif" alt="good vibes" width="460" autoplay playsinline />
 <br />
-<small>(motion tracker and flamethrower in hand, scanning for nasty bugs)</small>
 </div>
