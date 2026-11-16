@@ -24,7 +24,7 @@ src="https://github-stats-extended.vercel.app/api?username=mrtnstl&show_icons=tr
 alt="mrtnstl's GitHub Statistics"/>
 -->
 
-<img width="49%"
+<img width="400"
 src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrtnstl&layout=compact&theme=tokyonight&hide_border=true"
 alt="mrtnstl's Most Used Languages"/>
 
