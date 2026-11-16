@@ -15,6 +15,23 @@ from Hungary!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+
+<div align="center">
+
+<!--<img width="49%"
+src="https://github-stats-extended.vercel.app/api?username=mrtnstl&show_icons=true&theme=tokyonight&hide_border=true"
+alt="mrtnstl's GitHub Statistics"/>
+-->
+
+<img width="49%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrtnstl&layout=compact&theme=tokyonight&hide_border=true"
+alt="mrtnstl's Most Used Languages"/>
+
+<br/><br/>
+
+</div>
+
 <br />
 <div align="center">
 <h3>Always open to interesting opportunities where</h3>
